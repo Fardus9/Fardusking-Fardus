@@ -1,0 +1,6 @@
+{
+  "name": "Plugin Hub",
+  "description": "A modular plugin system simulator and developer console to manage, customize, and execute app plugins like video editors, audio enhancers, and translators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
